@@ -82,7 +82,7 @@ Install [Nix](https://nix.dev/tutorials/install-nix) (the package manager) and m
 
 Flakes allow you to specify your code's dependencies in a declarative way and they allow to easily specify inputs and outputs for projects. ROPfuscator exposes different outputs hence we need to enable Nix to use flakes.
 
-[Here](https://nixos.wiki/wiki/Flakes) is a step-by-step process on how to enable them.
+[Here](https://wiki.nixos.org/wiki/Flakes) is a step-by-step process on how to enable them.
 
 #### Step 2: Add ROPfuscator cache repository to Nix's channels (optional) 
 
